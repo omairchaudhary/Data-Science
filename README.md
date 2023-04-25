@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-# Titanic-eda
-# Project Content
-   ## Import librarries
-    ## Read dataset
-   ## Get information about data
-   ## Data cleaning
-   ## Data visualization & getting conclusions
-=======
-# Data Science projects
- ## project details
- Name: Titanic EDA complete
- 
->>>>>>> 55b77c3 (init)
+# EDA Projects Practice 
+# 1 EDA of Titanic Data
+# 2 EDA of 911 calls
+# 3 Eda of college footabll team 2019 (cfb19)
