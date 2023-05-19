@@ -1,3 +1,4 @@
 # EDA Projects Practice 
-# 1 EDA of Titanic Data
-# 2 EDA of 911 calls
+  eda practice on different datasets
+### EDA of Titanic Data
+### 2EDA of 911 calls
